@@ -1,10 +1,10 @@
 {
   "[ GTAV ] ": [
-    { href: 'https://raw.githubusercontent.com/3V5/ovix-files/refs/heads/main/translations/ButtersStotch-BetterEnglishTerminology.json', text: 'ButtersStotch-BetterEnglishTerminology.json', credits: 'ButtersStotch' },
-    { href: 'https://raw.githubusercontent.com/3V5/ovix-files/refs/heads/main/translations/French.json', text: 'French.json', credits: 'OVIX Discord' },
-    { href: 'https://raw.githubusercontent.com/3V5/ovix-files/refs/heads/main/translations/turkish.json', text: 'Turkish.json', credits: 'OVIX Discord' },
-    { href: 'https://raw.githubusercontent.com/3V5/ovix-files/refs/heads/main/translations/Russian.json', text: 'Russian.json', credits: 'OVIX Discord' },
-    { href: 'https://raw.githubusercontent.com/3V5/ovix-files/refs/heads/main/translations/swedish.json', text: 'swedish.json', credits: 'OVIX Discord' },
-    { href: 'https://raw.githubusercontent.com/3V5/ovix-files/refs/heads/main/translations/Romanian.json', text: 'Romanian.json', credits: 'OVIX Discord' }
+    { "href": "https://raw.githubusercontent.com/3V5/ovix-files/refs/heads/main/translations/ButtersStotch-BetterEnglishTerminology.json", "text": "ButtersStotch-BetterEnglishTerminology.json", "credits": "ButtersStotch" },
+    { "href": "https://raw.githubusercontent.com/3V5/ovix-files/refs/heads/main/translations/French.json", "text": "French.json", "credits": "OVIX Discord" },
+    { "href": "https://raw.githubusercontent.com/3V5/ovix-files/refs/heads/main/translations/turkish.json", "text": "Turkish.json", "credits": "OVIX Discord" },
+    { "href": "https://raw.githubusercontent.com/3V5/ovix-files/refs/heads/main/translations/Russian.json", "text": "Russian.json", "credits": "OVIX Discord" },
+    { "href": "https://raw.githubusercontent.com/3V5/ovix-files/refs/heads/main/translations/swedish.json", "text": "swedish.json", "credits": "OVIX Discord" },
+    { "href": "https://raw.githubusercontent.com/3V5/ovix-files/refs/heads/main/translations/Romanian.json", "text": "Romanian.json", "credits": "OVIX Discord" }
   ]
 }
